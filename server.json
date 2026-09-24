@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/betsapi",
   "title": "Betsapi",
   "description": "BetsAPI MCP — wraps BetsAPI (betsapi.com) sports events + odds.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/betsapi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-betsapi",
