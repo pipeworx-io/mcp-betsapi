@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-betsapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "BetsAPI MCP — wraps BetsAPI (betsapi.com) sports events + odds.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-524f4e412a6d650083ced3bc261de5db666606e05876880a57fa7d4c053d798a",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-0945927e9dac113bce4f125a51601f3d53bbfa839bbea7d8cc419b481a9a7546",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
